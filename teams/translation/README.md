@@ -1,6 +1,6 @@
 # Translation
 
-此团队主要用于在 crowdin 上翻译 electron，以及维护 [blog](https://github.com/electronjs-cn/blog) 项目。未来则包括搬运视频到国内的视频网站上(需翻译字幕)等。
+此团队主要用于在 Crowdin 上翻译 Electron，以及维护 [blog](https://github.com/electronjs-cn/blog) 项目。未来则包括搬运视频到国内的视频网站上（需翻译字幕）等。
 
 ## 如何加入
 
