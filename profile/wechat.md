@@ -4,8 +4,9 @@
 
 |                    |                      |                    |                    |
 | :----------------: | :------------------: | :----------------: | :----------------: |
-| ![litomore-wechat] | ![black-hole-wechat] | ![litomore-wechat] | ![litomore-wechat] |
+| ![litomore-wechat] | ![black-hole-wechat] | ![benny-wechat] | ![litomore-wechat] |
 
 <!-- Links -->
 [litomore-wechat]: https://raw.githubusercontent.com/electronjs-cn/.github/main/media/litomore-wechat.jpg
 [black-hole-wechat]: https://raw.githubusercontent.com/electronjs-cn/.github/main/media/black-hole-wechat.jpg
+[benny-wechat]: https://raw.githubusercontent.com/electronjs-cn/.github/main/media/benny-wechat.jpg
