@@ -11,7 +11,7 @@
 
 ## 附加
 
-当你加入后，会在 2 天内获得 electron 在 crowdin 中的 校对员权限。如果没有请联系: @BlackHole1
+当你加入后，会在 2 天内获得 Electron 在 Crowdin 中的校对员权限。如果没有请联系: @BlackHole1
 
 ## 成员
 
