@@ -8,8 +8,8 @@ This organization is used to organize the Chinese translation work of Electron a
 
 目前我们团队分为 `@electronjs-cn/admin` 及 `@electronjs-cn/translation`：
 
-- `@electronjs-cn/admin` 团队负责 Electron China 的总体管理事务
-- `@electronjs-cn/translation` 团队负责 Electron 的中文翻译相关事务
+- [`@electronjs-cn/admin`](../teams/admin/README.md) 团队负责 Electron China 的总体管理事务
+- [`@electronjs-cn/translation`](../teams/translation/README.md) 团队负责 Electron 的中文翻译相关事务
 
 ## 加入我们
 
