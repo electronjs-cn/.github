@@ -1,6 +1,25 @@
 # Translation
 
-此团队主要用于在 Crowdin 上翻译 Electron，以及维护 [blog](https://github.com/electronjs-cn/blog) 项目。未来则包括搬运视频到国内的视频网站上（需翻译字幕）等。
+加强、优化 Electron 的中文文档质量。
+
+## 成员
+
+| 头像                                                                        | 名字                                                       |
+| --------------------------------------------------------------------------- | ---------------------------------------------------------- |
+| <img src="https://github.com/blackhole1.png" width=100 alt="@blackhole1">   | Black-Hole [@blackhole1](https://github.com/blackhole1)    |
+| <img src="https://github.com/LitoMore.png" width=100 alt="@LitoMore">       | LitoMore [@LitoMore](https://github.com/LitoMore)          |
+| <img src="https://github.com/gaoshang212.png" width=100 alt="@gaoshang212"> | gaoshang212 [@gaoshang212](https://github.com/gaoshang212) |
+| <img src="https://github.com/flyyuan.png" width=100  alt="@flyyuan">        | flyyuan [@flyyuan](https://github.com/flyyuan)             |
+| <img src="https://github.com/netflt.png" width=100  alt="@netflt">          | danny [@netflt](https://github.com/netflt)                 |
+| <img src="https://github.com/mtrucc.png" width=100  alt="@mtrucc">          | mtrucc [@mtrucc](https://github.com/mtrucc)                |
+| <img src="https://github.com/sriting.png" width=100  alt="@sriting">        | sriting [@sriting](https://github.com/sriting)             |
+| <img src="https://github.com/anjianshi.png" width=100  alt="@anjianshi">    | anjianshi [@anjianshi](https://github.com/anjianshi)       |
+
+## 职责
+
+* Crowdin 上翻译 Electron
+* 维护 [blog](https://github.com/electronjs-cn/blog) 项目。
+* 未来则包括搬运视频到国内的视频网站上（需翻译字幕）等。
 
 ## 如何加入
 
@@ -12,16 +31,3 @@
 ## 附加
 
 当你加入后，会在 2 天内获得 Electron 在 Crowdin 中的校对员权限。如果没有请联系: [@BlackHole1](https://github.com/BlackHole1)
-
-## 成员
-
-| 头像                                                                         | 名字                                                       |
-| --------------------------------------------------------------------------- | ---------------------------------------------------------- |
-| <img src="https://github.com/blackhole1.png" width=100 alt="@blackhole1">   | Black-Hole [@blackhole1](https://github.com/blackhole1)    |
-| <img src="https://github.com/LitoMore.png" width=100 alt="@LitoMore">       | LitoMore [@LitoMore](https://github.com/LitoMore)          |
-| <img src="https://github.com/gaoshang212.png" width=100 alt="@gaoshang212"> | gaoshang212 [@gaoshang212](https://github.com/gaoshang212) |
-| <img src="https://github.com/flyyuan.png" width=100  alt="@flyyuan">        | flyyuan [@flyyuan](https://github.com/flyyuan)             |
-| <img src="https://github.com/netflt.png" width=100  alt="@netflt">          | danny [@netflt](https://github.com/netflt)                 |
-| <img src="https://github.com/mtrucc.png" width=100  alt="@mtrucc">          | mtrucc [@mtrucc](https://github.com/mtrucc)                |
-| <img src="https://github.com/sriting.png" width=100  alt="@sriting">        | sriting [@sriting](https://github.com/sriting)             |
-| <img src="https://github.com/anjianshi.png" width=100  alt="@anjianshi">    | anjianshi [@anjianshi](https://github.com/anjianshi)       |
