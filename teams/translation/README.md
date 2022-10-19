@@ -17,9 +17,9 @@
 
 ## 职责
 
-* Crowdin 上翻译 Electron
-* 维护 [blog](https://github.com/electronjs-cn/blog) 项目。
-* 未来则包括搬运视频到国内的视频网站上（需翻译字幕）等。
+- Crowdin 上翻译 Electron
+- 维护 [electronjs-cn/blog](https://github.com/electronjs-cn/blog) 项目
+- 未来则包括搬运视频到国内的视频网站上（需翻译字幕）等
 
 ## 如何加入
 
