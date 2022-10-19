@@ -6,9 +6,9 @@ This organization is used to organize the Chinese translation work of Electron a
 
 ## 团队分工
 
-目前我们团队分为 `@electronjs-cn/admin` 及 `@electronjs-cn/translation`：
+目前我们团队分为 `@electronjs-cn/core` 及 `@electronjs-cn/translation`：
 
-- [`@electronjs-cn/admin`](https://github.com/electronjs-cn/.github/blob/main/teams/admin/README.md) 团队负责 Electron China 的总体管理事务
+- [`@electronjs-cn/core`](https://github.com/electronjs-cn/.github/blob/main/teams/core/README.md) 团队负责 Electron China 的总体管理事务
 - [`@electronjs-cn/translation`](https://github.com/electronjs-cn/.github/blob/main/teams/translation/README.md) 团队负责 Electron 的中文翻译相关事务
 
 ## 加入我们

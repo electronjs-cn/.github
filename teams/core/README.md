@@ -1,4 +1,4 @@
-# Admin
+# Core
 
 此团队主要用于管理 Electron 在中国推广的具体事宜，以及 `electronjs-cn` 的未来走向。
 
