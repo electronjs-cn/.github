@@ -14,6 +14,7 @@
 | <img src="https://github.com/mtrucc.png" width=100  alt="@mtrucc">          | mtrucc [@mtrucc](https://github.com/mtrucc)                |
 | <img src="https://github.com/sriting.png" width=100  alt="@sriting">        | sriting [@sriting](https://github.com/sriting)             |
 | <img src="https://github.com/anjianshi.png" width=100  alt="@anjianshi">    | anjianshi [@anjianshi](https://github.com/anjianshi)       |
+| <img src="https://github.com/levi-oh.png" width=100  alt="@levi-oh">        | Levi [@levi-oh](https://github.com/levi-oh)                |
 
 ## 职责
 
