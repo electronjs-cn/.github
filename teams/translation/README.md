@@ -15,7 +15,8 @@
 | <img src="https://github.com/sriting.png" width=100  alt="@sriting">        | sriting [@sriting](https://github.com/sriting)      |
 | <img src="https://github.com/anjianshi.png" width=100  alt="@anjianshi">    | anjianshi [@anjianshi](https://github.com/anjianshi) |
 | <img src="https://github.com/levi-oh.png" width=100  alt="@levi-oh">        | Levi [@levi-oh](https://github.com/levi-oh)         |
-| <img src="https://github.com/spencer17x.png" width=100  alt="@spencer17x">     | Spencer17x [@spencer17x](https://github.com/spencer17x)       |
+| <img src="https://github.com/spencer17x.png" width=100  alt="@spencer17x">  | Spencer17x [@spencer17x](https://github.com/spencer17x)       |
+| <img src="https://github.com/Cyberhan123.png" width=100  alt="@spencer17x">  | Spencer17x [@spencer17x](https://github.com/Cyberhan123)       |
 
 ## 职责
 
