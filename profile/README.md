@@ -6,16 +6,13 @@ This organization is used to organize the Chinese translation work of Electron a
 
 ## 团队分工
 
-目前我们团队分为：
-
-- [`@electronjs-cn/core`](https://github.com/electronjs-cn/.github/blob/main/teams/core/README.md) Electron China 的总体管理事务
-- [`@electronjs-cn/outreach`](https://github.com/electronjs-cn/.github/blob/main/teams/outreach/README.md) 发展 Electron China 社区
-- [`@electronjs-cn/translation`](https://github.com/electronjs-cn/.github/blob/main/teams/translation/README.md) Electron 的中文翻译相关事务
+- [`@electronjs-cn/core`](https://github.com/electronjs-cn/.github/blob/main/teams/core) Electron China 的总体管理事务
+- [`@electronjs-cn/outreach`](https://github.com/electronjs-cn/.github/blob/main/teams/outreach) 发展 Electron China 社区
+- [`@electronjs-cn/translation`](https://github.com/electronjs-cn/.github/blob/main/teams/translation) Electron 的中文翻译相关事务
 
 ## 加入我们
 
-你可以先 <kbd>fork</kbd> [.github](https://github.com/electronjs-cn/.github) 项目，并在 `teams` 中选择一个或多个你感兴趣的，提交一份 PR，并在其中阐述加入的原因即可。
-> 你可以参考 [electronjs-cn/.github/pull/5](https://github.com/electronjs-cn/.github/pull/5)
+请参阅我们的 [贡献指南](https://github.com/electronjs-cn/.github/blob/main/CONTRIBUTING.md)。
 
 ## 聊天频道
 
