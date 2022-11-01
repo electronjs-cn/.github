@@ -4,12 +4,13 @@
 
 ## 成员
 
-| 头像                                                                        | 名字                                                       |
-| --------------------------------------------------------------------------- | ---------------------------------------------------------- |
-| <img src="https://github.com/blackhole1.png" width=100 alt="@blackhole1">   | Black-Hole [@blackhole1](https://github.com/blackhole1)    |
-| <img src="https://github.com/LitoMore.png" width=100 alt="@LitoMore">       | LitoMore [@LitoMore](https://github.com/LitoMore)          |
+<!-- prettier-ignore -->
+| 头像 | 名字 |
+| --- | --- |
+| <img src="https://github.com/blackhole1.png" width=100 alt="@blackhole1"> | Black-Hole [@blackhole1](https://github.com/blackhole1) |
+| <img src="https://github.com/LitoMore.png" width=100 alt="@LitoMore"> | LitoMore [@LitoMore](https://github.com/LitoMore) |
 | <img src="https://github.com/gaoshang212.png" width=100 alt="@gaoshang212"> | gaoshang212 [@gaoshang212](https://github.com/gaoshang212) |
-| <img src="https://github.com/flyyuan.png" width=100  alt="@flyyuan">        | flyyuan [@flyyuan](https://github.com/flyyuan)             |
+| <img src="https://github.com/flyyuan.png" width=100  alt="@flyyuan"> | flyyuan [@flyyuan](https://github.com/flyyuan) |
 
 ## 职责
 
