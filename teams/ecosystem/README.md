@@ -13,6 +13,7 @@
 | <img src="https://github.com/flyyuan.png" width=100  alt="@flyyuan">        | flyyuan [@flyyuan](https://github.com/flyyuan)             |
 | <img src="https://github.com/anjianshi.png" width=100  alt="@anjianshi">    | anjianshi [@anjianshi](https://github.com/anjianshi)       |
 | <img src="https://github.com/sriting.png" width=100  alt="@sriting">        | sriting [@sriting](https://github.com/sriting)             |
+| <img src="https://github.com/xuwanghu.png" width=100  alt="@xuwanghu">      | xuwanghu [@xuwanghu](https://github.com/xuwanghu)          |
 
 ## 职责
 
