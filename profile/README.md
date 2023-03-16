@@ -14,8 +14,10 @@ This organization is used to organize the Chinese translation work of Electron a
 
 请参阅我们的 [贡献指南](https://github.com/electronjs-cn/.github/blob/main/CONTRIBUTING.md)。
 
-## 聊天频道
+## 社群
 
 [![](https://img.shields.io/discord/1029220879487467570?label=Discord&logo=discord&color=eee&labelColor=5865f2&logoColor=fff)](https://discord.gg/eZTKXHBKpK)
 [![](https://shields.io/badge/Electron_China-eee?logo=wechat&labelColor=07c160&logoColor=fff)](https://github.com/electronjs-cn/.github/blob/main/profile/wechat.md)
 [![](https://shields.io/badge/QQ-Electron_China-eee?labelColor=1479d7&logoColor=fff)](https://qm.qq.com/cgi-bin/qm/qr?k=yXIZdiIaqGy7KZflPLXhlGB9q1z-G_RR&jump_from=webapi&authKey=5Apa7FxCsumTW6d6fY+zp1hsFLhXnb4ATcCMl3vLaZ1k1ic5/4vakeUKxFC60Gh/)
+[![](https://shields.io/badge/知乎-Electron_China-eee?logo=zhihu&labelColor=0084ff&logoColor=fff)](https://www.zhihu.com/people/electronjs)
+[![](https://shields.io/badge/掘金-Electron_China-eee?logo=juejin&labelColor=1e80ff&logoColor=fff)](https://juejin.cn/user/3356160125577096)
