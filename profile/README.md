@@ -26,7 +26,7 @@ This organization is used to organize the Chinese translation work of Electron a
 [discord-link]: https://discord.gg/eZTKXHBKpK
 [wechat-badge]: https://shields.io/badge/WeChat_Group-07C160?style=flat-square&logo=wechat&logoColor=fff
 [wechat-link]: https://github.com/electronjs-cn/.github/blob/main/profile/wechat.md
-[qq-badge]: https://shields.io/badge/QQ_Group-1EBAFC?style=flat-square&logo=tencentqq&logoColor=fff
+[qq-badge]: https://shields.io/badge/QQ_Group-1EBAFC?style=flat-square&logo=qq&logoColor=fff
 [qq-link]: https://qm.qq.com/cgi-bin/qm/qr?k=yXIZdiIaqGy7KZflPLXhlGB9q1z-G_RR&jump_from=webapi&authKey=5Apa7FxCsumTW6d6fY+zp1hsFLhXnb4ATcCMl3vLaZ1k1ic5/4vakeUKxFC60Gh/
 [zhihu-badge]: https://shields.io/badge/Zhihu_Column-0084FF?style=flat-square&logo=zhihu&logoColor=fff
 [zhihu-link]: https://www.zhihu.com/people/electronjs
